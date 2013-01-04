@@ -7,6 +7,6 @@ m4_include([config/sipXlib2.m4])
 AC_SUBST(LANG_ID, en_GB)
 AC_CONFIG_FILES([
   Makefile
-  sipxlang-en_GB.spec
+  sipxlang-en_gb.spec
 ])
 AC_OUTPUT
